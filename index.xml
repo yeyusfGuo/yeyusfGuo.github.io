@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://yeyusfGuo.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Oct 2020 19:28:49 +0800</lastBuildDate><atom:link href="https://yeyusfGuo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown学习</title>
+      <link>https://yeyusfGuo.github.io/post/blog/</link>
+      <pubDate>Thu, 08 Oct 2020 19:28:49 +0800</pubDate>
+      
+      <guid>https://yeyusfGuo.github.io/post/blog/</guid>
+      <description>Markdown学习 标题 标题：#+空格+标题名字+回车
+二级标题：##+空格+标题名字+回车
+ 字体 斜体：在文字的两边各加一个*号
+例如：hello world
+粗体：在文字两边各加两个*号
+例如 ：helloworld
+删除线：在文字两边0各加两个~号
+例如：hello world
+引用  加引用的内容
+ 箭头符号+引用的内容
+分割线   三个*或者-
+插入图片 超链接 [点击跳转到]（博客地址）
+表格 点击右键插入表格
+   名字 性别 年龄     张三 男 12    代码 三个tab键三面的`
+public </description>
+    </item>
+    
+  </channel>
+</rss>
